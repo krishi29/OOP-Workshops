@@ -64,10 +64,8 @@ m1: Display not set: [Display mode not set!]
 m1: Display set to percentage:
 m1: 12.5 out ouf 20 is %63
 Enter Mark for m1 (mark/out_of): abc
-Invalid Mark
-Enter Mark for m1 (mark/out_of): 12.5/abc
-Invalid Mark
-Enter Mark for m1 (mark/out_of): 12.5/20
+Invalid Mark, Retry: Enter Mark for m1 (mark/out_of): 12.5/abc
+Invalid Mark, Retry: Enter Mark for m1 (mark/out_of): 12.5/20
 m1: The mark you entered is: 12.5/20
 m1: With the raw value of: 0.625
 m1: And percentage value of: %63
