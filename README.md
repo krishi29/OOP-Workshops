@@ -1,8 +1,5 @@
 # OOP-Workshops
-## Lab Attendance
-In order for your in-lab submission to be valid, you must execute the attendance submission as follows:<br />
-**~fardad.soleimanloo/submit 244/NXX/WS##/attendance**  (**XX** => lab section   **##** => Workshop number) <br />
-If you do not execute the above command during the lab you are attending, any work submitted for that lab will get the mark ZERO
+
 ## Citation and Sources 
 In all the DIY part of your workshops, a file called **sources.txt** must be present. This file will be submitted with your work automatically.<br />   
 You are to write either of the following statements in the file "sources.txt":<br /><br />
