@@ -126,7 +126,17 @@
     <Text Include="phones.txt" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="w1_diy.cpp" />
+    <ClCompile Include="Contact.cpp" />
+    <ClCompile Include="File.cpp" />
+    <ClCompile Include="PhoneApp.cpp" />
+    <ClCompile Include="PhoneDir.cpp" />
+    <ClCompile Include="Tools.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Contact.h" />
+    <ClInclude Include="File.h" />
+    <ClInclude Include="PhoneDir.h" />
+    <ClInclude Include="Tools.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
